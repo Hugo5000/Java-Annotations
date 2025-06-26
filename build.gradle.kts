@@ -86,7 +86,7 @@ publishing {
                 scm {
                     connection.set("scm:git:git://github.com/Hugo5000/Java-Annotations.git")
                     developerConnection.set("scm:git:ssh://github.com/Hugo5000/Java-Annotations.git")
-                    url.set("http://github.com/Hugo5000/PaperMC-MarkerLib/tree/master")
+                    url.set("http://github.com/Hugo5000/Java-Annotations/tree/master")
                 }
             }
             from(components["java"])
